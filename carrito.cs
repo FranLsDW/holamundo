@@ -1,1 +1,1 @@
-Console.WriteLine("PRUEBA DE CONFLICTOS");
+Console.WriteLine("STASH de main");
